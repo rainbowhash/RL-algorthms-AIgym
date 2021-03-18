@@ -1,8 +1,8 @@
 <h2>RL-algorthms-AIgym</h2>
 <u><b>Implementation of various RL algorithms in AI gym</b></u><br/>
+<br/>
 
-
-Various Algorithms experimenting on:
+Various Algorithms experimenting on:<br/>
 Dynamic Programming<br/>
 Monte-Carlo<br/>
 Sarsa<br/>
