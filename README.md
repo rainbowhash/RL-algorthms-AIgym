@@ -1,5 +1,5 @@
 <h2>RL-algorthms-AIgym</h2>
-Implementation of various RL algorithms in AI gym
+<u>Implementation of various RL algorithms in AI gym</u>
 
 Dynamic Programming<br/>
 Monte-Carlo<br/>
