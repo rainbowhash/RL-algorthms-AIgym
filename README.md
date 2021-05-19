@@ -1,5 +1,5 @@
 <h2>RL-algorthms-AIgym</h2>
-<u><b>Implementation of various RL algorithms in AI gym</b></u><br/>
+<u><b>Implementation of various RL algorithms in AI gym(Under Development)</b></u><br/>
 <br/>
 
 Various Algorithms experimenting on:<br/>
